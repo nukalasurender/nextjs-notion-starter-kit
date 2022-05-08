@@ -12,13 +12,13 @@ export default siteConfig({
   // basic site info (required)
   name: 'Surendhar Nukala',
   domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
-  author: 'Travis Fischer',
+  author: 'Surendhar Nukala',
 
   // open graph metadata (optional)
   description: 'Surendhar Nukala',
 
   // social usernames (optional)
-  twitter: 'transitive_bs',
+  // twitter: 'transitive_bs',
   github: 'nukala-surender',
   linkedin: 'fisch2',
 
